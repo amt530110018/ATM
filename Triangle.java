@@ -3,6 +3,6 @@ public class Triangle
 {
 	public static String determineTriangleV1 (int a, int b, int c)
 	{
-		
+		public int a =123;
 	}
 }
